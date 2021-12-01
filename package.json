@@ -1,6 +1,6 @@
 {
   "name": "compressing-custom",
-  "version": "1.5.1",
+  "version": "1.5.0",
   "description": "Custom for compressing set",
   "main": "index.js",
   "keywords": [
